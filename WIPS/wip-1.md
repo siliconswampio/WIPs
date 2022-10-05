@@ -36,7 +36,7 @@ The role of the champion is to write the WIP using the style and format describe
 * Verifies the title accurately describe the content.
 * Check the WIP for language (spelling, grammar, sentence structure, etc.), markup (Github flavored Markdown), code style.
 
-If the WIP isn’t ready, the editor will send it back to the author for revision, with specific instructions.
+If the WIP isn't ready, the editor will send it back to the author for revision, with specific instructions.
 
 #### Once the WIP is ready for the repository, the WIP editor will:
 * Assign an WIP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this WIP).
@@ -45,7 +45,7 @@ If the WIP isn’t ready, the editor will send it back to the author for revisio
 
 Many WIPs are written and maintained by developers with write access to the WIRE codebase. The WIP editors monitor WIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
 
-The editors don’t pass judgment on WIPs. We merely do the administrative & editorial part.
+The editors don't pass judgment on WIPs. We merely do the administrative & editorial part.
 
 The current WIP editors are:
 ...
@@ -69,10 +69,10 @@ WIP review meetings will be held ad-hoc at the beginning of the WIP launch and a
 > In particular, the issues section of the WIPs repository is an excellent place to discuss your proposal with the community and start creating more formalized language around your WIP.
 
 #### Submit an WIP
-1. Navigate to WIRE’s official [WIP repository](https://github.com/siliconswampio/WIPs)
-1. Navigate to WIRE’s official WIP repo here
+1. Navigate to WIRE's official [WIP repository](https://github.com/siliconswampio/WIPs)
+1. Navigate to WIRE's official WIP repo here
 2. Use a pull request to update the status. Please include a link to where people should continue discussing your WIP.
-3. The WIP editors will process these requests. Once you’ve submitted your WIP, the WIP will have a ‘Submitted’ status.
+3. The WIP editors will process these requests. Once you've submitted your WIP, the WIP will have a ‘Submitted' status.
 
 #### WIP Review by an WIP Editor
 * An WIP editor will review the submitted WIP.
@@ -113,7 +113,7 @@ Based on the next steps decided at the WIP review meeting:
 * **Archived** - the WIP is no longer under consideration (withdrawn by author, not enough support for the proposal, etc.)
 
 ## What belongs in a successful WIP?
-It is highly recommended that a single WIP contain a single key proposal or new idea. The more focused the WIP, the more successful it tends to be. A change to one client doesn’t require an WIP; a change that affects multiple clients, or defines a standard for multiple apps to use, does.
+It is highly recommended that a single WIP contain a single key proposal or new idea. The more focused the WIP, the more successful it tends to be. A change to one client doesn't require an WIP; a change that affects multiple clients, or defines a standard for multiple apps to use, does.
 
 #### An WIP must meet certain minimum criteria:
 * It must be a clear and complete description of the proposed enhancement.
@@ -124,7 +124,7 @@ It is highly recommended that a single WIP contain a single key proposal or new 
 #### Each WIP should have the following parts:
 **Preamble:** RFC 822 style headers containing metadata about the WIP, including the WIP number, a short descriptive title (limited to a maximum of 44 characters), and the author details. See below for details.
 
-**Simple Summary:** “If you can’t explain it simply, you don’t understand it well enough.” Provide a simplified and layman-accessible explanation of the WIP.
+**Simple Summary:** “If you can't explain it simply, you don't understand it well enough.” Provide a simplified and layman-accessible explanation of the WIP.
 
 **Abstract:** a short (~200 word) description of the technical issue being addressed.
 
@@ -235,13 +235,13 @@ WIPs may include auxiliary files such as diagrams. Such files must be named WIP-
 
 ## Transferring WIP Ownership
 
-It occasionally becomes necessary to transfer ownership of WIPs to a new champion. In general, we’d like to retain the original author as a co-author of the transferred WIP, but that’s not always possible or may not be the preference of the original author. A good reason to transfer ownership is because the original author no longer has the time or interest in updating it or following through with the WIP process, or has fallen off the face of the net (i.e. is unreachable or isn’t responding to email). A bad reason to transfer ownership is because you don’t agree with the direction of the WIP. We try to build consensus around an WIP, but if that’s not possible, you can always submit a competing WIP.
+It occasionally becomes necessary to transfer ownership of WIPs to a new champion. In general, we'd like to retain the original author as a co-author of the transferred WIP, but that's not always possible or may not be the preference of the original author. A good reason to transfer ownership is because the original author no longer has the time or interest in updating it or following through with the WIP process, or has fallen off the face of the net (i.e. is unreachable or isn't responding to email). A bad reason to transfer ownership is because you don't agree with the direction of the WIP. We try to build consensus around an WIP, but if that's not possible, you can always submit a competing WIP.
 
-If you are interested in assuming ownership of an WIP, send a message asking to take over, addressed to both the original author and the WIP editor. If the original author doesn’t respond to email in a timely manner, the WIP editor will make a unilateral decision (it’s not like such decisions can’t be reversed).
+If you are interested in assuming ownership of an WIP, send a message asking to take over, addressed to both the original author and the WIP editor. If the original author doesn't respond to email in a timely manner, the WIP editor will make a unilateral decision (it's not like such decisions can't be reversed).
 
 ## History
 
-This document was derived heavily from [Ethereum’s EIP-1] & [EOS's EEP-1] written by Martin Becze, Hudson Jameson, and others, which was derived from [Bitcoin’s BIP-0001] written by Amir Taaki which in turn was derived from [Python’s PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the WIRE Improvement Proposal process, and should not be bothered with technical questions specific to WIRE or WIPs. Please direct all comments, questions, and feedback to the WIP editors.
+This document was derived heavily from [Ethereum's EIP-1] & [EOS's EEP-1] written by Martin Becze, Hudson Jameson, and others, which was derived from [Bitcoin's BIP-0001] written by Amir Taaki which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the WIRE Improvement Proposal process, and should not be bothered with technical questions specific to WIRE or WIPs. Please direct all comments, questions, and feedback to the WIP editors.
 
 ## Legal
 
@@ -261,7 +261,7 @@ While participating in this process, please be respectful and constructive, so t
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others’ private information, such as a physical or electronic address, without explicit permission
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 #### Confidentiality
@@ -287,12 +287,12 @@ Any reference to any third party or third-party product, resource or service is 
 
 #### Forward Looking Statements
 
-When an WIP Participant makes statements expressing its vision, it does not guarantee anything, and all aspects of its vision are subject to change at any time and at such participant’s sole discretion, with or without notice. We call these “forward-looking statements”, which includes statements on an WIP Participant’s website and in other materials, such as statements regarding WIRE’s development, expected performance, and future features, or business strategy, plans, prospects, developments and objectives. These statements are based on assumptions and are subject to risk, uncertainties and change at any time.
+When an WIP Participant makes statements expressing its vision, it does not guarantee anything, and all aspects of its vision are subject to change at any time and at such participant's sole discretion, with or without notice. We call these “forward-looking statements”, which includes statements on an WIP Participant's website and in other materials, such as statements regarding WIRE's development, expected performance, and future features, or business strategy, plans, prospects, developments and objectives. These statements are based on assumptions and are subject to risk, uncertainties and change at any time.
 
 WIP Participants operate in a rapidly changing environment and new risks emerge from time to time. Given these risks and uncertainties, you are cautioned not to rely on these forward-looking statements. Actual results, performance or events may differ materially from what is predicted in the forward-looking statements. Some of the factors that could cause actual results, performance or events to differ materially from the forward looking statements include, without limitation: technical feasibility and barriers; market trends and volatility; continued availability of capital, financing and personnel; product acceptance; the commercial success of any new products or technologies; competition; government regulation and laws; and general economic, market or business conditions.
 
 All statements are valid only as of the date of first posting and WIP Participants are not under and expressly disclaim any obligation to update or alter any statements, whether as a result of new information, subsequent events or otherwise. Nothing provided in the WIP process constitutes technological, financial, investment, legal or other advice, either in general or with regard to any particular situation or implementation. Please consult with experts in appropriate areas before implementing or utilizing any content, guidance or feedback received as part of the WIP process.
-Trademarks: WIRE, EOS, the heptahedron and associated logos and related marks are Bullish Global’s trademarks.
+Trademarks: WIRE, EOS, the heptahedron and associated logos and related marks are Bullish Global's trademarks.
 
 ## Bibliography
 
